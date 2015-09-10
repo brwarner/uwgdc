@@ -1,8 +1,14 @@
 {% extends "base.html" %}
 
 {% block content %}
-<div class="center">
-Welcome to the club<br/>
+
+{% for c, as in categories %}
+    {% if c.slug == MAIN_CATEGORY %}
+      {% for a in as %}
+          <article>{{ a.content }}</article>
+      {% endfor %}
+    {% endif %}
+{% endfor %}
+
 <iframe src="{{ GOOGLE_CALENDER }}" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-</div>
 {% endblock content %}

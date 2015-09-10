@@ -9,6 +9,8 @@ SITEURL = ''
 PATH = 'content'
 STATIC_PATHS = ['pages/']
 
+MAIN_CATEGORY = 'main'
+
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
