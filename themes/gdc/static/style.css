@@ -36,3 +36,13 @@ h1, h2
 .center
 {
 }
+
+article img[alt=small]
+{
+    width: 150px;
+}
+
+article img[alt=medium]
+{
+    width: 300px;
+}

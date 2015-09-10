@@ -7,6 +7,7 @@ SITENAME = u'University of Waterloo Game Dev Club'
 SITEURL = ''
 
 PATH = 'content'
+STATIC_PATHS = ['pages/']
 
 TIMEZONE = 'Europe/Paris'
 
