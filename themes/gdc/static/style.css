@@ -1,13 +1,13 @@
 @font-face
 {
-  font-family: Roboto-Light;
+  font-family: Roboto;
   src: url(Roboto-Light.ttf);
 }
 
 @font-face
 {
   font-family: BebasNeue;
-  src: url(BebasNeue.otf);
+  src: url(BebasNeue-Regular.otf);
 }
 
 aside
@@ -21,7 +21,7 @@ aside
 html, body
 {
   height: 100%;
-  font-family: "Roboto-Light";
+  font-family: "Roboto";
 }
 
 h1, h2
