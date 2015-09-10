@@ -22,7 +22,7 @@ html, body
 {
   height: 100%;
   font-family: "Roboto";
-  font-size: 14px;
+  font-size: 14pt;
 }
 
 h1, h2
@@ -35,12 +35,12 @@ h1, h2
 
 .title-prefix
 {
-  font-size: 30px;
+  font-size: 30pt;
 }
 
 .title
 {
-  font-size: 72px;
+  font-size: 72pt;
 }
 
 .main-content
@@ -51,7 +51,7 @@ h1, h2
 
 h3
 {
-  font-size: 18px;
+  font-size: 18pt;
 }
 
 .center
