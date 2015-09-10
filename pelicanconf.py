@@ -10,6 +10,7 @@ PATH = 'content'
 STATIC_PATHS = ['pages/']
 
 MAIN_CATEGORY = 'main'
+DIRECTIONS_PAGE = 'directions'
 
 TIMEZONE = 'Europe/Paris'
 
@@ -33,8 +34,11 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Facebook', 'https://www.facebook.com/groups/298486077021523/'),
+          ('Twitter', 'https://twitter.com/uwgamedev'),)
+          
+# Contact widget
+CONTACT = (('uw.gamedevclub@gmail.com', 'mailto:uw.gamedevclub@gmail.com'),)
 
 DEFAULT_PAGINATION = 10
 
