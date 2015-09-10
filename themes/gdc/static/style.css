@@ -1,9 +1,32 @@
+@font-face
+{
+  font-family: Roboto-Light;
+  src: url(Roboto-Light.ttf);
+}
+
+@font-face
+{
+  font-family: BebasNeue;
+  src: url(BebasNeue.otf);
+}
+
 aside
 {
-    float: left; 
+    float: right;
     width: 25%;
-    height: 500px;
+    height: 100%;
     margin-top: 0;
+}
+
+html, body
+{
+  height: 100%;
+  font-family: "Roboto-Light";
+}
+
+h1, h2
+{
+  font-family: "BebasNeue";
 }
 
 .title

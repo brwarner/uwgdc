@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Brook Jensen'
-SITENAME = u'University of Waterloo Game Development Club'
+SITENAME = u'University of Waterloo Game Dev Club'
 SITEURL = ''
 
 PATH = 'content'
