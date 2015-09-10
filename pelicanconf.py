@@ -32,7 +32,8 @@ LINKS = (('Games Institute', 'https://uwaterloo.ca/games-institute/'),)
 
 # Social widget
 SOCIAL = (('Facebook', 'https://www.facebook.com/groups/298486077021523/'),
-          ('Twitter', 'https://twitter.com/uwgamedev'),)
+          ('Twitter', 'https://twitter.com/uwgamedev'),
+          ('Reddit', 'https://www.reddit.com/r/kwgamedev/'),)
           
 # Contact widget
 CONTACT = (('uw.gamedevclub@gmail.com', 'mailto:uw.gamedevclub@gmail.com'),)

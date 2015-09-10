@@ -16,6 +16,7 @@ aside
     width: 25%;
     height: 100%;
     margin-top: 0;
+    margin-left: 20px;
 }
 
 html, body
@@ -27,12 +28,16 @@ html, body
   color: #2a2929;
 }
 
-h1, h2
+h1, h2, h3, h4
+{
+  font-family: "BebasNeue";
+  font-weight: normal;
+}
+
+h1.title, h2.title-prefix
 {
   margin: 0;
   padding: 0;
-  font-family: "BebasNeue";
-  font-weight: normal;
 }
 
 .title-prefix
@@ -56,9 +61,13 @@ h3
   font-size: 18pt;
 }
 
-article.index
+article
 {
   max-width: 750px;
+}
+
+article.index
+{
   text-align: justify;
 }
 
@@ -132,4 +141,14 @@ a.header
 {
   text-decoration: none;
   color: inherit;
+}
+
+article h4
+{
+  margin-bottom: 0;
+}
+
+article p
+{
+  margin-top: 0;
 }
