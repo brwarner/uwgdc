@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>{{ SITENAME }}{% block title %}{% endblock title %}</title>
+    <link rel="stylesheet" href="{{SITEURL}}/theme/style.css" />
+</head>
+
+<body>
+    <aside>
+        <nav>
+            Pages
+            <ul class="pages">
+                {% for p in pages %}
+                    <li><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+                {% endfor %}
+            </ul>
+        </nav>
+    </aside>
+    <div>
+        <h1 class="title">{{ SITENAME }}</h1>
+        {% block content %}
+        {% endblock content %}
+    </div>
+</body>
+
+</html>
