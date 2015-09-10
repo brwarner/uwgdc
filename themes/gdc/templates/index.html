@@ -5,7 +5,7 @@
 {% for c, as in categories %}
     {% if c.slug == MAIN_CATEGORY %}
       {% for a in as %}
-          <article>{{ a.content }}</article>
+          <article class="index">{{ a.content }}</article>
       {% endfor %}
     {% endif %}
 {% endfor %}

@@ -23,6 +23,8 @@ html, body
   height: 100%;
   font-family: "Roboto";
   font-size: 14pt;
+  background-color: #f8f8f8;
+  color: #2a2929;
 }
 
 h1, h2
@@ -46,12 +48,43 @@ h1, h2
 .main-content
 {
   padding-top: 20px;
-  padding-left: 50px;
+  padding-left: 7%;
 }
 
 h3
 {
   font-size: 18pt;
+}
+
+article.index
+{
+  max-width: 750px;
+  text-align: justify;
+}
+
+article.index p
+{
+  margin-top: 0;
+}
+
+article.index a
+{
+  text-decoration: none;
+  color: blue;
+}
+
+input
+{
+  background-color: #4c4c4c;
+  color: white;
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+}
+
+input[type=submit]:hover
+{
+  background-color: grey;
 }
 
 article img[alt=small]
@@ -82,15 +115,21 @@ aside nav ul
 aside a
 {
   text-decoration: none;
-  color: black;
+  color: inherit;
 }
 
 aside a:visited
 {
-  color: black;
+  color: inherit;
 }
 
 aside a:hover
 {
   color: blue;
+}
+
+a.header
+{
+  text-decoration: none;
+  color: inherit;
 }

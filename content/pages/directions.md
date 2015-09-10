@@ -6,11 +6,11 @@ Looking to join us at the Games Institute on Thursdays? Great! Follow these inst
 
 EC1 is listed on the campus map in the extreme upper right edge of campus.
 
-![small]({attach}directions/campus.png)
+![medium]({attach}directions/campus.png)
 
 You're looking for the door right here (as shown from Google satellite view)
 
-![small]({attach}directions/sat.png)
+![medium]({attach}directions/sat.png)
 
 If you’re still a bit confused how to get there, try to follow these steps. Or, contact us at [uw.gamedevclub@gmail.com](mailto:uw.gamedevclub@gmail.com).
 
