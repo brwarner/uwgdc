@@ -8,14 +8,7 @@
 
 <body>
     <aside>
-        <nav>
-            Pages
-            <ul class="pages">
-                {% for p in pages %}
-                    <li><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
-                {% endfor %}
-            </ul>
-        </nav>
+        {% include "includes/sidebar.html" %}
     </aside>
     <div class="main-content">
         <h2 class="title-prefix">University of Waterloo</h2>

@@ -1,0 +1,34 @@
+<strong>Follow Us:</strong>
+<nav>
+    <ul>
+    {% for name, url in SOCIAL %}
+        <li><a href="{{ url }}">{{ name }}</a></li>
+    {% endfor %}
+    </ul>
+</nav>
+{% for p in pages %}
+    {% if p.slug == DIRECTIONS_PAGE %}
+        <strong><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></strong><br/><br/>
+    {% endif %}
+{% endfor %}
+<strong>Contact Info:</strong>
+<nav>
+    <ul>
+    {% for name, url in CONTACT %}
+        <li><a href="{{ url }}">{{ name }}</a></li>
+    {% endfor %}
+    </ul>
+</nav>
+<strong>More Info:</strong>
+<nav>
+    <ul>
+        {% for p in pages %}
+            {% if p.slug != DIRECTIONS_PAGE %}
+                <li><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+            {% endif %}
+        {% endfor %}
+        {% for name, url in LINKS %}
+                <li><a href="{{ url }}">{{ name }}</a></li>
+        {% endfor %}
+    </ul>
+</nav>
