@@ -1,4 +1,4 @@
-<strong>Follow Us:</strong>
+<strong class="heading">Follow Us:</strong>
 <nav>
     <ul>
     {% for name, url in SOCIAL %}
@@ -8,10 +8,10 @@
 </nav>
 {% for p in pages %}
     {% if p.slug == DIRECTIONS_PAGE %}
-        <strong><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></strong><br/><br/>
+        <strong class="heading"><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></strong><br/><br/>
     {% endif %}
 {% endfor %}
-<strong>Contact Info:</strong>
+<strong class="heading">Contact Info:</strong>
 <nav>
     <ul>
     {% for name, url in CONTACT %}
@@ -19,7 +19,7 @@
     {% endfor %}
     </ul>
 </nav>
-<strong>More Info:</strong>
+<strong class="heading">More Info:</strong>
 <nav>
     <ul>
         {% for p in pages %}
