@@ -1,4 +1,4 @@
-Title: GI Directions
+Title: Directions to Meetings
 Slug: directions
 Date: 10-09-2015 15:42
 

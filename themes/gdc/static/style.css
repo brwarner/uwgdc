@@ -50,5 +50,28 @@ article img[alt=medium]
 aside strong
 {
   text-decoration: none;
-  font-size: 18;
+  font-size: 18pt;
+}
+
+aside nav ul
+{
+  list-style: none;
+  padding-left: 0;
+  font-size: 14pt;
+}
+
+aside a
+{
+  text-decoration: none;
+  color: black;
+}
+
+aside a:visited
+{
+  color: black;
+}
+
+aside a:hover
+{
+  color: blue;
 }

@@ -1,4 +1,4 @@
-Title: Showcase
+Title: Member Games
 Slug: showcase
 Date: 10-09-2015 15:42
 
