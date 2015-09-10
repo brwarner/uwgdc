@@ -50,6 +50,7 @@ article img[alt=medium]
 aside strong
 {
   text-decoration: none;
+  font-weight: normal;
   font-size: 18pt;
 }
 
@@ -58,6 +59,7 @@ aside nav ul
   list-style: none;
   padding-left: 0;
   font-size: 14pt;
+  margin-top: 0;
 }
 
 aside a
