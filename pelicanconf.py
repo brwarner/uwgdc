@@ -28,10 +28,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Games Institute', 'https://uwaterloo.ca/games-institute/'),)
 
 # Social widget
 SOCIAL = (('Facebook', 'https://www.facebook.com/groups/298486077021523/'),

@@ -1,4 +1,4 @@
-Title: Member Games
+Title: Games Made by UW Students
 Slug: showcase
 Date: 10-09-2015 15:42
 

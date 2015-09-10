@@ -27,5 +27,8 @@
                 <li><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
             {% endif %}
         {% endfor %}
+        {% for name, url in LINKS %}
+                <li><a href="{{ url }}">{{ name }}</a></li>
+        {% endfor %}
     </ul>
 </nav>
