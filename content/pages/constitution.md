@@ -13,7 +13,7 @@ The Club is not an agent or representative of the Federation of Students ("The F
 
 # Purpose
 
-The purpose of The Club is to build a community of game developers on campus. It should encourage participants from a diverse set of fields, including but not limited to visual artistis, musicians, programmers, designers, writers, and critics. The Club should create a safe space for this community, and encourage its members to realize their ambitions. By bringing these people together, members can learn from each other and walk away as better creators.
+The purpose of The Club is to build a community of game developers on campus. It should encourage participants from a diverse set of fields, including but not limited to visual artistis, musicians, programmers, designers, writers, and critics. The Club should create a safe space for this community, and encourage its members to realize their ambitions. By bringing these people together, members can learn from each other and walk away as better developers.
 
 # Membership
 
@@ -33,13 +33,13 @@ The Executive is a body is made up of a President and up to four Councillors. To
 
 * What events the club shall run
 * What club funds should be spent on
-* The appointment of advisors
+* The appointment of Advisors
 
 ## Decision Making
 
 In general the Executive will make decisions through discussion and consensus. In the case where this does not work, any executive may call for a vote. Executives should avoid calling votes if at all possible.
 
-If there is a vote, a decision is made by a majority of executives. Unless otherwise noted a President can veto a decision so long as at least one Councillor seconds the veto.
+If there is a vote, a decision is made by a majority of executives. Unless otherwise noted a President can veto a decision so long as at least one Councillor seconds them.
 
 ## Changes to the Executive
 
@@ -47,7 +47,7 @@ The Executive may vote to remove or add Councillors, as long as the number of Co
 
 The Executive may vote to remove the President. The President can not veto this vote.
 
-If the club is ever without a President, a vote for a new President must be held within two weeks. The election process is outlined below.
+If the club is ever without a President, a vote for a new President by the voting members must be held within two weeks. The election process is outlined below.
 
 If there are ever fewer than two Councillors, the President may appoint Councillors until there are at least two. After this new Councillors can only be added by a vote.
 
@@ -79,9 +79,9 @@ Nominees must be members who are students at the University of Waterloo.
 
 Only voting members may cast votes for President.
 
-The President with the most votes is elected into office.
+The nominee with the most votes is elected into office as the President.
 
-Notice for an election must be given at least two weeks before it is held. Nominations can occur up to and dring the meeting in which the election is held.
+Notice for an election must be given at least two weeks before it is held. Nominations can occur up to and during the meeting in which the election is held.
 
 # Vote of No Confidence
 
@@ -89,7 +89,7 @@ Ten voting members or two Executives can call for a Vote of No Confidence. Withi
 
 # Amendment
 
-Any amendment to this Constitution requires two weeks notice to voting members. A supermajority (2/3) of voting members who have cast a vote must vote in favour for an amendment to be passed.
+Any amendment to this Constitution requires two weeks notice to voting members. A supermajority (2/3) of voting members who have cast a vote must vote in favour for the amendment to be passed.
 
 # Affiliation
 
