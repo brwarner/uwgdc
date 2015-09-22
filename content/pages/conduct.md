@@ -1,7 +1,7 @@
 Title: Code of Conduct
 Slug: conduct
 Date: 20-09-2015 20:37
-Status: Hidden
+Status: hidden
 
 #### Purpose
 

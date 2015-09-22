@@ -1,7 +1,7 @@
 Title: Constitution
 Slug: constitution
 Date: 22-09-2015 13:56
-Status: Hidden
+Status: hidden
 
 # Name
 
@@ -47,13 +47,19 @@ The Executive may vote to remove or add Councillors, as long as the number of Co
 
 The Executive may vote to remove the President. The President can not veto this vote.
 
-If the club is ever without a President, a vote for a new President must be held within two weeks. The Election process is outlined below.
+If the club is ever without a President, a vote for a new President must be held within two weeks. The election process is outlined below.
 
 If there are ever fewer than two Councillors, the President may appoint Councillors until there are at least two. After this new Councillors can only be added by a vote.
 
 The President may pass their title, at any time, onto another Councillor. The former President is now a Councillor.
 
 Any Executive may forfeight their position at any time.
+
+## Advisors
+
+At their leisure the President may appoint a number of advisors. Advisors can not cast votes, but must be involved in discussions by the Executive.
+
+Any member is eligable to be an Advisor.
 
 # Membership Fees
 
@@ -67,13 +73,19 @@ Notice of meetings or votes are sent through The Club's mailing list. This maili
 
 # Elections
 
-Elections for President are held during club meetings. Any member can nominate candidates for Presidency. 
+Elections for President are held during club meetings. Any member can nominate candidates for Presidency.
 
-The President with the most vote is elected into office.
+Nominees must be members who are students at the University of Waterloo.
+
+Only voting members may cast votes for President.
+
+The President with the most votes is elected into office.
+
+Notice for an election must be given at least two weeks before it is held. Nominations can occur up to and dring the meeting in which the election is held.
 
 # Vote of No Confidence
 
-Ten Voting Members or two Executives can call for a Vote of No Confidence. Within two weeks a vote of all Voting Members must be held. If a super majority (2/3) of those who vote vote in favour of No Confidence, then the entire Executive is dissolved. Since this leaves The Club without a President, a vote is triggered (as above). The new President would then appoint two new Councillors (also as above).
+Ten voting members or two Executives can call for a Vote of No Confidence. Within two weeks a vote of all voting members must be held. If a super majority (2/3) of those who vote vote in favour of No Confidence, then the entire Executive is dissolved. Since this leaves The Club without a President, a vote is triggered (as above). The new President would then appoint two new Councillors (also as above).
 
 # Amendment
 
